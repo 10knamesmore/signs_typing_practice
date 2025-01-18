@@ -1,0 +1,6 @@
+[package]
+name = "signs_typing_practice"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
